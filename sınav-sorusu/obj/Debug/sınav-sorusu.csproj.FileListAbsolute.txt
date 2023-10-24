@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\sınav-sorusu\sınav-sorusu\bin\Debug\sınav-sorusu.exe.config
+C:\Users\User\source\repos\sınav-sorusu\sınav-sorusu\bin\Debug\sınav-sorusu.exe
+C:\Users\User\source\repos\sınav-sorusu\sınav-sorusu\bin\Debug\sınav-sorusu.pdb
+C:\Users\User\source\repos\sınav-sorusu\sınav-sorusu\obj\Debug\sınav-sorusu.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sınav-sorusu\sınav-sorusu\obj\Debug\sınav-sorusu.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\sınav-sorusu\sınav-sorusu\obj\Debug\sınav_sorusu.Form1.resources
+C:\Users\User\source\repos\sınav-sorusu\sınav-sorusu\obj\Debug\sınav_sorusu.Properties.Resources.resources
+C:\Users\User\source\repos\sınav-sorusu\sınav-sorusu\obj\Debug\sınav-sorusu.csproj.GenerateResource.cache
+C:\Users\User\source\repos\sınav-sorusu\sınav-sorusu\obj\Debug\sınav-sorusu.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sınav-sorusu\sınav-sorusu\obj\Debug\sınav-sorusu.exe
+C:\Users\User\source\repos\sınav-sorusu\sınav-sorusu\obj\Debug\sınav-sorusu.pdb
